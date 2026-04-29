@@ -1,16 +1,19 @@
 # Amos Ojochenemi
 
-Backend developer focused on building APIs with Python and Django REST Framework.
+Backend Developer (Python | Django REST Framework)
 
-## Tech Stack
-- Python
-- Django
-- Django REST Framework
-- PostgreSQL
+I build scalable REST APIs with authentication, role-based access control, and clean backend architecture.
 
-## Projects
-- Productivity API (Task management backend)
+Focus Areas:
+- Django REST Framework APIs
+- Authentication systems (JWT)
+- SaaS-style backend design
+- Database modeling (PostgreSQL / SQLite)
 
-## Currently Learning
-- Backend architecture
-- Scalable API development
+Projects:
+- TeamFlow API – Task management system with teams, roles, and activity logs
+- Task Manager API – RESTful backend with filtering and permissions
+
+Currently improving:
+- System design for scalable backend applications
+- Production-ready API architecture
